@@ -1,0 +1,18 @@
+# COPY-PASTE PERINTAH INI DI REPLIT SHELL
+
+# Langkah 1: Add semua file
+git add .
+
+# Langkah 2: Commit
+git commit -m "Setup untuk GitHub Pages"
+
+# Langkah 3: Push ke GitHub
+# GANTI 'main' dengan 'master' jika branch Anda master
+git push origin main
+
+# Setelah selesai, buka GitHub:
+# 1. https://github.com/wiwink13-hub/wiwink13-hub.github.io
+# 2. Klik Settings → Pages
+# 3. Source: Pilih "GitHub Actions"
+# 4. Tunggu di tab Actions sampai hijau (✅)
+# 5. Buka https://wiwink13-hub.github.io/
